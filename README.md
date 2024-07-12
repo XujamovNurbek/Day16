@@ -1,4 +1,3 @@
 # Bu readme faylim.
-Proyekt haqida ma'lumotlar
 
-###  Menga notanish ma'lumotlar berilyapti
+Bu yerda jadvalda berilgan ma'lumotlar ustida ishlash, ularni grafiklar ko'rinishida tasvirlash, unda mavjud bo'lgan nan qiymatlarni  aniq qiymatlarga almashtirish va  shunga o'xshash muommolarni hal qilish ko'rib chiqish edi.
